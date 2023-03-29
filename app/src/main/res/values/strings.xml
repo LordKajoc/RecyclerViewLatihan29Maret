@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">RecyclerViewLatihan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="data_nama">
+        <item>Ayu</item>
+        <item>Bayu</item>
+        <item>Cayu</item>
+        <item>Dayu</item>
+        <item>Eayu</item>
+        <item>Fayu</item>
+        <item>Gayu</item>
+        <item>Hayu</item>
+        <item>Iayu</item>
+        <item>Jayu</item>
+    </string-array>
+
+    <string-array name="data_umur">
+        <item>20</item>
+        <item>20</item>
+        <item>23</item>
+        <item>20</item>
+        <item>20</item>
+        <item>22</item>
+        <item>20</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+    </string-array>
+
+    <string-array name="data_mobil">
+        <item>Mazda rx7</item>
+        <item>Nissan GTR R34</item>
+        <item>Subaru Imprezza</item>
+        <item>Lancer Evolution</item>
+        <item>Suzuki Swift</item>
+        <item>Honda Estilo</item>
+        <item>Honda S2000</item>
+        <item>Nissan Silvia S15</item>
+        <item>Nissan Stagea</item>
+        <item>Toyota AE86</item>
+    </string-array>
+
+    <integer-array name="foto_mobil">
+        <item>@drawable/rx7</item>
+        <item>@drawable/r34</item>
+        <item>@drawable/impreza</item>
+        <item>@drawable/evo</item>
+        <item>@drawable/swift</item>>
+        <item>@drawable/estilo</item>
+        <item>@drawable/s2000</item>
+        <item>@drawable/s15</item>
+        <item>@drawable/stagea</item>
+        <item>@drawable/ae86</item>
+    </integer-array>
+
+    <string-array name="data_kategori">
+        <item>Otomotif</item>
+        <item>Otomotif</item>
+        <item>Otomotif</item>
+        <item>Otomotif</item>
+        <item>Otomotif</item>
+        <item>Otomotif</item>
+        <item>Otomotif</item>
+        <item>Otomotif</item>
+        <item>Otomotif</item>
+        <item>Otomotif</item>
+    </string-array>
+
+    <string-array name="data_tanggal">
+        <item>Tanggal 17 Maret 2023</item>
+        <item>Tanggal 17 Maret 2023</item>
+        <item>Tanggal 17 Maret 2023</item>
+        <item>Tanggal 17 Maret 2023</item>
+        <item>Tanggal 17 Maret 2023</item>
+        <item>Tanggal 17 Maret 2023</item>
+        <item>Tanggal 17 Maret 2023</item>
+        <item>Tanggal 17 Maret 2023</item>
+        <item>Tanggal 17 Maret 2023</item>
+        <item>Tanggal 17 Maret 2023</item>
+    </string-array>
+</resources>
